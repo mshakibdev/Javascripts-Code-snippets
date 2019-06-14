@@ -1,0 +1,13 @@
+(1)
+let numbers = [1,2,3,4]
+ let result =numbers.map( function (number) {
+   return number *2 })
+
+console.log(result)
+
+(2)
+let numbers = [1,2,3,4]
+ let numbers = [1,2,3,4]
+ let result =numbers.map( number => number*2)
+
+console.log(result)
